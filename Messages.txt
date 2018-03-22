@@ -1,2 +1,6 @@
 Hello Sona.
+<<<<<<< HEAD
 Sona's merge
+=======
+Merge issue example
+>>>>>>> be00cd8648c459fceeaf369a6b939fa5bd3bba69
